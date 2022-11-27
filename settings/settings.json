@@ -1,0 +1,12 @@
+{
+    "call_on": false,
+    "font": {
+        "bgcolor": 3355443200,
+        "bgvisible": true,
+        "color": 4294967295,
+        "family": "Consolas",
+        "position": [ 1380, 1645 ],
+        "size": 7
+    },
+    "party_on": true
+}
