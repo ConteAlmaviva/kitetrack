@@ -16,7 +16,7 @@ List of commands:
 
 `/setkite call` or `/setkite calls` - adds a call to chat messages
 
-`/setkite mode` - Changes chat mode for messages. `/setkite mode ls', `l`, or `linkshell` will set the chat mode to linkshell; `pt`, `p`, or `party` for party
+`/setkite mode` - Changes chat mode for messages. `/setkite mode ls`, `l`, or `linkshell` will set the chat mode to linkshell; `pt`, `p`, or `party` for party
 
 `/kitetarget` - manually prints your current kite target (if one is set)
 
