@@ -11,8 +11,13 @@ The kite target should clear automatically when it dies (i.e. its HP goes to 0);
 List of commands:
 
 `/setkite` - Sets current target as kite tracking target
+
 `/setkite party` - Toggles party messages on and off
+
 `/setkite call` or `/setkite calls` - adds a call to chat messages
+
 `/setkite mode` - Changes chat mode for messages. `/setkite mode ls', `l`, or `linkshell` will set the chat mode to linkshell; `pt`, `p`, or `party` for party
+
 `/kitetarget` - manually prints your current kite target (if one is set)
+
 `/setkite clear` or `/unsetkite` - Clears current kite target (will clear automatically when your kite target dies)
